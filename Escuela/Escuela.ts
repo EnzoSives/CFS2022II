@@ -1,5 +1,5 @@
 import { Alumno } from "./Alumno";
-import { Profesor } from "./Profesor";
+import { Profesor } from "./profesor";
 
 class Escuela{
     nombre:string;
