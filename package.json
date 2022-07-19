@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/EnzoSives/CFS2022II/issues"
   },
-  "homepage": "https://github.com/EnzoSives/CFS2022II#readme"
+  "homepage": "https://github.com/EnzoSives/CFS2022II#readme",
+  "devDependencies": {
+    "@types/node": "^18.0.6"
+  }
 }

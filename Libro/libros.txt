@@ -1,0 +1,3 @@
+nombre: El Principito
+paginas: 111
+autor: Antoine de Saint-Exupéry
